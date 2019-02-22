@@ -1,0 +1,4 @@
+shdkha
+.jash
+.kj
+
